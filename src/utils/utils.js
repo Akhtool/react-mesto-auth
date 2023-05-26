@@ -1,7 +1,7 @@
 export const apiOptions = {
-  baseUrl: "https://mesto.nomoreparties.co/v1/cohort-61",
+  baseUrl: "https://mesto.nomoreparties.co/v1/cohort-62",
   headers: {
-    authorization: "6549de70-7f4c-4043-bf96-f9bc846b4c3b",
+    authorization: "6140e03a-cdf5-4314-8120-d3eda6855951",
     "Content-Type": "application/json",
   },
 };

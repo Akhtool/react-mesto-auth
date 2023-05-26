@@ -39,7 +39,7 @@ class Api {
     });
   }
 
-  getUserInfo() {
+  getUserInfo(token) {
     return fetch(`${this._baseUrl}/users/me`, {
       headers: this._headers,
     }).then(this._checkResponseStatus);
